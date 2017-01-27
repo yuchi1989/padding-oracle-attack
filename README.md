@@ -10,7 +10,7 @@ sudo apt-get install python3
 sudo apt-get install python3-pip  
 pip3 install pycrypto  
 
-### Practice
+### Exercise
 Complete the implemention of *hack* method to decrypt any ciphertext without using the key.  
 You can call *padding_oracle* method many times to guess the plaintext.  
-You can implement your own *pad* function, *unpad* function and *check_padding* function.    
+You can implement your own *pad* function, *unpad* function or *check_padding* function.    
